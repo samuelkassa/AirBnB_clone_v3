@@ -2,6 +2,7 @@
 [![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2FAirBnB_clone_v3)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fralexrivero%2FAirBnB_clone_v3) <!-- repo size --> ![GitHub repo size](https://img.shields.io/github/repo-size/ralexrivero/AirBnB_clone_v3) <!-- lines of code --> ![Lines of code](https://img.shields.io/tokei/lines/github/ralexrivero/AirBnB_clone_v3)
 
 ![AirBnB clone](img/homehero_v3.png)
+
 The AirBnB clone - RESTful API is the last segment of the AirBnB project at ALX Software Engineering School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
 
 #### Functionalities of this command interpreter:
